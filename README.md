@@ -1,8 +1,10 @@
 # Luis Puga
 
 **Research Assistant em Inovação Aberta · Business Intelligence · Embraer (Inova Talentos)**
-**[🌎 My Website/Portfolio](https://lgustavopuga.github.io/)**
+
 📍 Atibaia, SP — Brasil &nbsp;|&nbsp; 🎓 Administração UNESP · 2024 &nbsp;|&nbsp; 📊 Pós em BI · Data Science Academy
+
+**[🌎 My Website/Portfolio](https://lgustavopuga.github.io/)**
 
 ---
 
