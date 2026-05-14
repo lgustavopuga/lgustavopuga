@@ -4,8 +4,6 @@
 
 📍 Atibaia, SP — Brasil &nbsp;|&nbsp; 🎓 Administração UNESP · 2024 &nbsp;|&nbsp; 📊 Pós em BI · Data Science Academy
 
-**[🌎 My Website/Portfolio](https://lgustavopuga.github.io/)**
-
 ---
 
 Conecto o ecossistema de startups aos desafios estratégicos das grandes empresas — usando dados, automação e IA para transformar processos em decisões melhores. Passei por **Embraer**, **CBA** e **Viiv Empreendimentos** estruturando desde governança de inovação (ISO 56000) até pipelines ETL e dashboards executivos em Power BI.
@@ -69,7 +67,7 @@ Aberto para trocar ideias sobre Open Innovation, BI, automação e IA — ou par
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgcp)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lgustavopuga)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscezarpuga@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/lgustavopuga)
+[![Portfólio](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://lgustavopuga.github.io/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
