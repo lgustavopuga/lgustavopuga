@@ -14,10 +14,10 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 
 ## 🚀 Projetos em Destaque
 
-- ✈️ **[Inovação Aberta & Inteligência de Mercado — Embraer / CBA](https://example.com/)**
+- ✈️ **[Inovação Aberta & Inteligência de Mercado](https://example.com/)**
   Scouting ativo de startups, facilitação de PoCs e governança de inovação (ISO 56000). Dashboards em Power BI monitorando **+50 indicadores de desempenho** para suporte à decisão executiva.
 
-- 📊 **[Business Intelligence & Automação — Viiv Empreendimentos](https://example.com/)**
+- 📊 **[Business Intelligence & Automação](https://example.com/)**
   Ciclo completo do dado: requisitos → ETL/ELT em SQL → Data Warehouse → dashboards **100% automatizados** em Power BI. Resultado: redução significativa no tempo de tomada de decisão comercial.
 
 - 🌱 **[Análise Geoespacial de Biocombustíveis — Iniciação Científica UNESP](https://example.com/)**
