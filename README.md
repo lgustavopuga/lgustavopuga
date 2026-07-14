@@ -2,12 +2,12 @@
 
 **Research Assistant em Inovação Aberta · Business Intelligence · Embraer (Inova Talentos)**
 
-📍 Atibaia, SP — Brasil &nbsp;|&nbsp; 🎓 Administração UNESP · 2024 &nbsp;|&nbsp; 📊 Pós em BI · Data Science Academy
+📍 Atibaia, SP — Brasil &nbsp;|&nbsp; 🎓 Administração UNESP · 2024 &nbsp;|&nbsp; 📊 Pós em BI · Data Science Academy · 2026; 🤖 IA UNIVESP · 2026
 
 ---
 
-Conecto o ecossistema de startups aos desafios estratégicos das grandes empresas — usando dados, automação e IA para transformar processos em decisões melhores. Passei por **Embraer**, **CBA** e **Viiv Empreendimentos** estruturando desde governança de inovação (ISO 56000) até pipelines ETL e dashboards executivos em Power BI.
-
+Conecto o ecossistema de startups aos desafios estratégicos das grandes empresas — usando dados, automação e IA para transformar processos em decisões melhores. Passei por **Embraer**, **Viiv Empreendimentos**, **CBA** **Algar Telecom**,  estruturando desde governança de inovação (ISO 56000) até pipelines ETL e dashboards executivos em Power BI.
+Conecto o ecossistema de startups aos desafios estratégicos das grandes empresas — usando dados, automação e IA para transformar processos em decisões melhores. Passei por  **Embraer**, **Viiv Empreendimentos**, **CBA** **Algar Telecom** estruturando desde governança de inovação até pipelines ETL e dashboards executivos em Power BI.
 > *"Inovação só alcança seu potencial máximo quando sustentada por uma cultura de decisões orientadas por dados."*
 
 ---
@@ -44,11 +44,10 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 
 ## 🎓 Formação & Certificações
 
-- **Pós-graduação em Análise e Inteligência de Negócios** — Data Science Academy *(conclusão: 2026)*
+- **Bacharelado em Inteligência Artificial** — UNIVESP *(2026)*
+- **Pós-graduação em Análise e Inteligência de Negócios** — Data Science Academy *(2026)*
 - **Bacharelado em Administração** — UNESP *(2024)*
-- **Google Data Analytics Professional Certificate** — Google
-- **Scrum Master** — Treinamento com foco em PSM I
-- **Capacitações em** Business Agility · Kanban · Governança de Inovação
+- **Google Data Analytics Professional Certificate** — Google *(2023)*
 
 ---
 
