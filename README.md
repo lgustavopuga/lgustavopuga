@@ -13,13 +13,13 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 
 ## 🚀 Projetos em Destaque
 
-- ✈️ **[Inovação Aberta & Inteligência de Mercado](https://example.com/)**
+- ✈️ **[Inovação Aberta & Inteligência de Mercado](https://embraer.com/corporate-innovation/embraer-startup-program/pt)**
   Scouting ativo de startups, facilitação de PoCs e governança de inovação. Dashboards em Power BI monitorando **+50 indicadores de desempenho** para suporte à decisão executiva.
 
-- 📊 **[Business Intelligence & Automação](https://example.com/)**
+- 📊 **[Business Intelligence & Automação](https://lgustavopuga.github.io/portfolio/portfolio-2/)**
   Ciclo completo do dado: requisitos → ETL/ELT em SQL → Data Warehouse → dashboards automatizados em Power BI. Resultado: redução significativa no tempo de tomada de decisão comercial.
 
-- 🌱 **[Análise Geoespacial de Biocombustíveis — Iniciação Científica UNESP](https://example.com/)**
+- 🌱 **[Análise Geoespacial de Biocombustíveis — Iniciação Científica UNESP](https://lgustavopuga.github.io/portfolio/portfolio-1/)**
   Mapeamento de **144 usinas** de etanol no Brasil com R (Tidyverse) e bases IBGE. Identificação de padrões de expansão territorial ligados à introdução dos veículos flex-fuel.
 
 ---
