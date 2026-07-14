@@ -6,7 +6,6 @@
 
 ---
 
-Conecto o ecossistema de startups aos desafios estratégicos das grandes empresas — usando dados, automação e IA para transformar processos em decisões melhores. Passei por **Embraer**, **Viiv Empreendimentos**, **CBA** **Algar Telecom**,  estruturando desde governança de inovação (ISO 56000) até pipelines ETL e dashboards executivos em Power BI.
 Conecto o ecossistema de startups aos desafios estratégicos das grandes empresas — usando dados, automação e IA para transformar processos em decisões melhores. Passei por  **Embraer**, **Viiv Empreendimentos**, **CBA** **Algar Telecom** estruturando desde governança de inovação até pipelines ETL e dashboards executivos em Power BI.
 > *"Inovação só alcança seu potencial máximo quando sustentada por uma cultura de decisões orientadas por dados."*
 
