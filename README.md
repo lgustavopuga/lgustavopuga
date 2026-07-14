@@ -2,7 +2,7 @@
 
 **Research Assistant em Inovação Aberta · Business Intelligence · Embraer (Inova Talentos)**
 
-📍 Atibaia, SP — Brasil &nbsp;|&nbsp; 🎓 Administração UNESP · 2024 &nbsp;|&nbsp; 📊 Pós em BI · Data Science Academy · 2026; 🤖 IA UNIVESP · 2026
+📍 Atibaia, SP — Brasil &nbsp;|&nbsp; 🎓 Administração UNESP · 2024 &nbsp;|&nbsp; 📊 Pós em BI · Data Science Academy · 2026 &nbsp;|&nbsp; 🤖 IA UNIVESP · 2026
 
 ---
 
@@ -15,10 +15,10 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 ## 🚀 Projetos em Destaque
 
 - ✈️ **[Inovação Aberta & Inteligência de Mercado](https://example.com/)**
-  Scouting ativo de startups, facilitação de PoCs e governança de inovação (ISO 56000). Dashboards em Power BI monitorando **+50 indicadores de desempenho** para suporte à decisão executiva.
+  Scouting ativo de startups, facilitação de PoCs e governança de inovação. Dashboards em Power BI monitorando **+50 indicadores de desempenho** para suporte à decisão executiva.
 
 - 📊 **[Business Intelligence & Automação](https://example.com/)**
-  Ciclo completo do dado: requisitos → ETL/ELT em SQL → Data Warehouse → dashboards **100% automatizados** em Power BI. Resultado: redução significativa no tempo de tomada de decisão comercial.
+  Ciclo completo do dado: requisitos → ETL/ELT em SQL → Data Warehouse → dashboards automatizados em Power BI. Resultado: redução significativa no tempo de tomada de decisão comercial.
 
 - 🌱 **[Análise Geoespacial de Biocombustíveis — Iniciação Científica UNESP](https://example.com/)**
   Mapeamento de **144 usinas** de etanol no Brasil com R (Tidyverse) e bases IBGE. Identificação de padrões de expansão territorial ligados à introdução dos veículos flex-fuel.
@@ -33,11 +33,11 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 |---|---|
 | **BI & Visualização** | Power BI · DAX · Excel Avançado |
 | **Linguagens** | SQL (PostgreSQL, MySQL) · Python · R (Tidyverse) |
-| **Engenharia de Dados** | ETL/ELT · Apache Airflow · DBT · Data Warehouse · Modelagem Dimensional |
-| **Ciência de Dados** | Machine Learning · RStudio · Jamovi |
-| **Automação & Infra** | n8n · Docker · Git · Cloud Computing |
+| **Engenharia de Dados** | ETL/ELT · Apache Airflow · DBT · Mage.AI · Data Warehouse · Modelagem Dimensional |
+| **Ciência de Dados & IA** | Machine Learning · Copilot Studio · RStudio · Jamovi |
+| **Automação & Infra** | n8n · Docker · Coolify.io · Git · Cloud Computing |
 | **Scouting** | Tracxn · Crunchbase · Pitchbook |
-| **Metodologias** | Lean Six Sigma · Scrum · Kanban · SAFe · ISO 56000 |
+| **Metodologias** | Lean Six Sigma · Scrum · Kanban · SAFe |
 | **Idiomas** | Português (Nativo) · Inglês (Avançado) · Espanhol (Básico) |
 
 ---
@@ -54,7 +54,6 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 ## 📈 O que estou fazendo agora
 
 - 🔭 Scouting ativo de startups na **Embraer** (bolsa Inova Talentos)
-- 🤖 Explorando **IA agêntica** para automação de podcasts educacionais
 - 📚 Aprofundando engenharia de dados (Airflow, DBT) e modelagem dimensional
 
 ---
