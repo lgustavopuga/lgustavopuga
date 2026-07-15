@@ -26,7 +26,11 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 
 ## 🛠️ Stack Tecnológico
 
-[![Skills](https://skillicons.dev/icons?i=python,r,postgresql,docker,git,github,vscode&perline=10)](#)
+[![Skills](https://skillicons.dev/icons?i=ubuntu,linux,py,r,anaconda,sklearn,pytorch,tensorflow,selenium,postgres,mysql,docker,git,github,md,obsidian,latex&perline=9&theme=dark)](#)
+
+---
+
+
 
 | Camada | Ferramentas |
 |---|---|
@@ -62,9 +66,8 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 Aberto para trocar ideias sobre Open Innovation, BI, automação e IA — ou para indicar uma boa opção gastronômica em Atibaia. 🍔
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgcp)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lgustavopuga)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscezarpuga@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://lgustavopuga.github.io/)
+[![Portfólio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://lgustavopuga.github.io/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
