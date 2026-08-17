@@ -47,7 +47,7 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 
 ## 🎓 Formação & Certificações
 
-- **Bacharelado em Inteligência Artificial** — UNIVESP *(2026)*
+- **Bacharelado em Inteligência Artificial** — UNIVESP *(2030)*
 - **Pós-graduação em Análise e Inteligência de Negócios** — Data Science Academy *(2026)*
 - **Bacharelado em Administração** — UNESP *(2024)*
 - **Google Data Analytics Professional Certificate** — Google *(2023)*
@@ -56,14 +56,14 @@ Conecto o ecossistema de startups aos desafios estratégicos das grandes empresa
 
 ## 📈 O que estou fazendo agora
 
-- 🔭 Scouting ativo de startups na **Embraer** (bolsa Inova Talentos)
-- 📚 Aprofundando engenharia de dados (Airflow, DBT) e modelagem dimensional
+- 🔭 Trabalhando no Startup Program **Embraer** (Inova Talentos IEL/IPT)
+- 📚 (...)
 
 ---
 
 ## 📬 Vamos Conectar
 
-Aberto para trocar ideias sobre Open Innovation, BI, automação e IA — ou para indicar uma boa opção gastronômica em Atibaia. 🍔
+Aberto para trocar ideias sobre Inovação, Startups, BI, automação e IA — ou para indicar uma boa opção de passeio em Atibaia.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgcp)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luiscezarpuga@gmail.com)
